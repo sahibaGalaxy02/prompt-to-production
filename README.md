@@ -5,6 +5,9 @@
 
 ## Quick Start
 
+**Step 0 — Read the [FAQ.md](./FAQ.md)**
+Before you begin, check the FAQ for instructions on Git Issues, creating PRs, and common troubleshooting tips.
+
 **Step 1 — Fork and clone**
 Fork this repo to your GitHub account, then clone your fork locally.
 
@@ -128,5 +131,14 @@ Example: `[Pune] Arshdeep Singh — Vibe Coding Submission`
 - [ ] `summary_hr_leave.txt` present (UC-0B output)
 - [ ] 4+ commits with meaningful messages, one per UC
 - [ ] PR template fully filled — every section complete
+
+---
+
+## Resources
+
+Check out the [resources/](./resources) directory for curated lists of tools, courses, and platforms:
+- [Coding Tools](./resources/coding-tools.md)
+- [Useful AI Courses](./resources/courses.md)
+- [AI & Data Platforms](./resources/platforms.md)
 
 **Blocked for more than 5 minutes? Flag your tutor. Do not debug alone.**
